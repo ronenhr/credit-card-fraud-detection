@@ -1,0 +1,16 @@
+# Data file (too large for GitHub)
+Misc/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Virtual environment
+venv/
+env/

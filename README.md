@@ -32,3 +32,23 @@ Near-perfect precision with only 2 false alarms across 56,864 legitimate transac
 
 ## Stack
 Python · Pandas · Scikit-learn · XGBoost · Matplotlib · Seaborn
+
+## Getting Started
+
+1. Clone the repository
+```bash
+   git clone https://github.com/ronenhr/credit-card-fraud-detection.git
+```
+
+2. Install dependencies
+```bash
+   pip install -r requirements.txt
+```
+
+3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+   and place `creditcard.csv` in the project folder
+
+4. Run the notebook
+```bash
+   jupyter notebook credit_card_fraud_detection.ipynb
+```
